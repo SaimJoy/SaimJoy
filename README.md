@@ -12,7 +12,7 @@ I'm a passionate Software Quality Assurance Engineer with a keen eye for detail 
 - Agile/Scrum Methodologies
 
 🌟 **Highlights:**
-- Certified in Software Testing & Quality Assurance **BITM** 
+- Certified in Software Testing & Quality Assurance From **BITM** 
   
 #### 🌐 Connect with Me:
 - LinkedIn: [A S M Lutful Kabir](https://www.linkedin.com/in/a-s-m-lutful-kabir-joy)
