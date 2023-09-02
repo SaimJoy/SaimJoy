@@ -3,13 +3,13 @@
 I'm a passionate Software Quality Assurance Engineer with a keen eye for detail and a commitment to ensuring software excellence.
 
 🔍 **Skills:**
+- Agile/Scrum Methodologies
 - Test Planning & Strategy
-- Manual Testing
 - Test Documentation
+- Test Case Design
+- Manual Testing
 - Test Automation (e.g. Selenium)
 - Bug Tracking & Reporting
-- Test Case Design
-- Agile/Scrum Methodologies
 
 🌟 **Highlights:**
 - Certified in Software Testing & Quality Assurance From **BITM** 
@@ -31,7 +31,7 @@ I'm always eager to learn and stay up-to-date with the latest testing tools and 
 💡 **Looking to Collaborate:**
 I'm open to collaborating on projects related to software quality assurance and testing. Feel free to reach out if you'd like to discuss potential opportunities.
 
-### [My Resume (PDF)](https://github.com/SaimJoy/Resume-CV/blob/main/A_S%20M%20Lutful%20Kabir_Resume_02-09-2023-15-48-19.pdf)
+### 📚  [My Resume ](https://github.com/SaimJoy/Resume-CV/blob/main/A_S%20M%20Lutful%20Kabir_Resume_02-09-2023-15-48-19.pdf)
 
 
 🌐 **Explore More:**
