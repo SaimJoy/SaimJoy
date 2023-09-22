@@ -1,6 +1,6 @@
 ### Hi there, I'm A S M Lutful Kabir (Joy) 👋
 
-I'm a passionate Software Quality Assurance Engineer with a knack for ensuring top-notch software quality. 
+I'm a passionate Software QA Engineer with a knack for ensuring top-notch software quality. 
 
 ### 💼 Professional Background
 
