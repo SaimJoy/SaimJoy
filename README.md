@@ -16,7 +16,7 @@ I'm a passionate Software QA Engineer with a knack for ensuring top-notch softwa
 - Test Documentation
 - Test Case Design
 - Manual Testing
-- Test Automation (e.g. Selenium)
+- Test Automation (e.g. Selenium) 
 - Bug Tracking & Reporting
 
 🌟 **Highlights:**
@@ -36,6 +36,7 @@ I enjoy collaborating with others and sharing knowledge within the tech communit
 - Enriched Sussastho Web application,Enriched Sussastho Mobile App By PKSF
 - Rural GP Web application, RGP Mobile App
 - PPEPP Web Application and PPEPP Mobile App
+- BRAC CARRER HUB BY SDP
 
 💡 **Looking to Collaborate:**
 I'm open to collaborating on interesting projects related to software quality assurance and testing. Don't hesitate to reach out if you'd like to discuss potential opportunities.
