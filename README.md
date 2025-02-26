@@ -5,7 +5,7 @@ Software QA Engineer with a knack for ensuring top-notch software quality.
 ### 💼 Professional Background
 
 - 🎓 Bachelor's in Computer Science & Engineering
-- 📆 2.5+ years of experience in SQA
+- 📆 3+ years of experience in SQA
 - 📝 Proficient in test planning, execution, and reporting
 - 🚀 Continuous learner.
 
@@ -23,7 +23,7 @@ Software QA Engineer with a knack for ensuring top-notch software quality.
 - Certified in Software Testing & Quality Assurance - **BITM** 
 - Contributed to the successful release of Digital Health Corner Web,App and SMART Device Integration by rigorously testing and providing valuable feedback to the development team.
 - Collaborated with cross-functional teams to identify and resolve critical issues, resulting in a significant reduction in post-release defects.
-- Led the quality assurance efforts for Nutrition [PPEPP] By PKSF
+- Led the quality assurance efforts for Nutrition [PPEPP] By PKSF.
   
 
 #### 📚 Learning and Growth:
@@ -31,6 +31,7 @@ I'm always eager to learn and stay up-to-date with the latest testing tools and 
 I enjoy collaborating with others and sharing knowledge within the tech community.
 
 📚 **Recent Projects:**
+- BizTRAQ Business Management Solution.
 - Digital Health Corner (DHC) Web application
 - Sussatho User App, Sussatho Agent App
 - Enriched Sussastho Web application,Enriched Sussastho Mobile App By PKSF
