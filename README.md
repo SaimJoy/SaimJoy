@@ -5,7 +5,7 @@ Software QA Engineer with a knack for ensuring top-notch software quality.
 ### 💼 Professional Background
 
 - 🎓 Bachelor's in Computer Science & Engineering
-- 📆 3+ years of experience in SQA
+- 📆 4+ years of experience in SQA
 - 📝 Proficient in test planning, execution, and reporting
 - 🚀 Continuous learner.
 
